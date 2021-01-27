@@ -2,7 +2,7 @@
 # Code to reproduce the analyses and the plots in the the manuscript  #
 # "Prescribing patterns for medical treatment of suspected prostatic  #
 #  obstruction: a longitudinal register-based study the Scottish      #
-#  Health and Social Care Open Data" (2020)                           #
+#  Health and Social Care Open Data" (2021)                           #
 # Authors: Federico Andreis, Richard Bryant, Emanuele Giorgi,         #
 #          Andrea Williamson, Ashleigh Ward                           #
 #######################################################################
